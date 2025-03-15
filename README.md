@@ -4,6 +4,6 @@ I am interested in networking field since it has something to do with my daily j
 
 ## Documentation
 
-- [x] 1 > [ Preparation - Day 1](Journey/001/Readme.md)
+- [x] 1 > [ Network Devices - Day 1](Journey/001/Readme.md)
 - [x] 2 > [ Interfaces and Cables - Day 2](Journey/002/Readme.md)
 
