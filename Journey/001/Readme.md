@@ -1,12 +1,15 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# AWS Certified Cloud Practitioner Course (Stephane Maraak on Udemy): Day 1
+# Network Devices: Day 1
 
-## Cloud Research
+## Some Defintion on Network Devices
 
-- What Is Cloud Computing?
-- IAM
+- Router
+- Switch
+- Firewall
+- Client
+- Server
 
-## Social Proof
+## Youtube Video
 
-[Twitter](https://twitter.com/_notwaving/status/1327785265092579328?s=20)
+[Youtube](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
