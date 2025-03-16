@@ -18,3 +18,8 @@
 [Youtube](https://www.youtube.com/watch?v=ieTH5lVhNaY&t=1219s)
 
 [Lab](https://www.youtube.com/watch?v=K6Qt23sY68Y)
+
+## Lab Exercise
+
+![image](https://github.com/user-attachments/assets/1856a72f-f283-458d-b157-c794bf4d8cfc)
+
