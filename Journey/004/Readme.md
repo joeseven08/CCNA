@@ -17,8 +17,11 @@
      ##Use the 'hostname' command in global configuration mode##
      
 Router>enable
+
 Router#conf t
+
 Enter configuration commands, one per line.  End with CNTL/Z.
+
 Router(config)#hostname R1
 
 2.  Configure an unencrypted enable password of 'CCNA' on both devices
