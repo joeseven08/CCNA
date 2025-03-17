@@ -7,4 +7,5 @@ I am interested in networking field since it has something to do with my daily j
 - [x] 1 > [ Network Devices - Day 1](Journey/001/Readme.md)
 - [x] 2 > [ Interfaces and Cables - Day 2](Journey/002/Readme.md)
 - [x] 3 > [ OSI Model and TCP/IP Suite - Day 3](Journey/003/Readme.md)
+- [x] 4 > [ CLI Introduction and Basic Device Security - Day 4](Journey/004/Readme.md)
 
