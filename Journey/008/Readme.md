@@ -15,7 +15,7 @@
 ![image](https://github.com/user-attachments/assets/7a412286-0a29-4e15-ab61-36b2c828d644)
 
 ## Configuring Static Route (Lab)
-### Task 1
+### Task 
 
 ![image](https://github.com/user-attachments/assets/f982ec15-c6f7-42c3-8925-11e5a2aefec9)
 
@@ -61,7 +61,26 @@
   ![image](https://github.com/user-attachments/assets/3adf9a7c-20a9-42c4-b6f5-9debdebb09d3)
 
   
+### Troubleshooting Static Route
+## Task
 
+
+## Answer
+
+- R1 Misconfig
+
+![image](https://github.com/user-attachments/assets/cc27eb5f-d9b1-4d3d-9926-a99e21a9578e)
+
+- R2 Misconfig
+![image](https://github.com/user-attachments/assets/2bb837e9-9511-4b9d-85f4-49546ae8fb27)
+
+- R3 Misconfig
+
+![image](https://github.com/user-attachments/assets/3112eb20-86a8-4c4c-8dbf-9dbd4e66068f)
+
+- Ping result from PC1 to PC2
+
+![image](https://github.com/user-attachments/assets/babdafa4-ffd9-4f79-a422-50f0ddad6e26)
 
 
 
