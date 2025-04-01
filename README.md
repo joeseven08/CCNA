@@ -10,3 +10,6 @@ I am interested in networking field since it has something to do with my daily j
 - [x] 4 > [ CLI Introduction and Basic Device Security - Day 4](Journey/004/Readme.md)
 - [x] 5 > [ Switching - Day 5&6](Journey/005/Readme.md)
 - [x] 6 > [ IPv4 Addressing - Day 7&8](Journey/006/Readme.md)
+- [x] 7 > [ Switch Interfaces - Day 9](Journey/007/Readme.md)
+- [x] 8 > [ IPv4 Header - Day 10](Journey/008/Readme.md)
+- [x] 9 > [ Static Routing - Day 11](Journey/008/Readme.md)
