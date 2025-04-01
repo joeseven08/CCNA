@@ -72,6 +72,7 @@
 ![image](https://github.com/user-attachments/assets/cc27eb5f-d9b1-4d3d-9926-a99e21a9578e)
 
 - R2 Misconfig
+  
 ![image](https://github.com/user-attachments/assets/2bb837e9-9511-4b9d-85f4-49546ae8fb27)
 
 - R3 Misconfig
