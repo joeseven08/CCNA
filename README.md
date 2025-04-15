@@ -13,3 +13,5 @@ I am interested in networking field since it has something to do with my daily j
 - [x] 7 > [ Switch Interfaces - Day 9](Journey/007/Readme.md)
 - [x] 8 > [ IPv4 Header - Day 10](Journey/008/Readme.md)
 - [x] 9 > [ Static Routing - Day 11](Journey/008/Readme.md)
+- [x] 10 > [ The Life of a Packet - Day 12](Journey/008/Readme.md)
+- [x] 11 > [ Subnetting - Day 12 - Day 15](Journey/008/Readme.md)
