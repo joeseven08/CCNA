@@ -86,4 +86,4 @@ ARP reply
 
 ## Lab
 
-[Twitter](https://twitter.com/_notwaving/status/1327785265092579328?s=20)
+![image](https://github.com/user-attachments/assets/9a468797-c043-44a0-b7a4-314050aa6172)
