@@ -1,12 +1,60 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# AWS Certified Cloud Practitioner Course (Stephane Maraak on Udemy): Day 6
+# Switch Interfaces
+## Network Topology
 
-## Cloud Research
+<img width="1177" height="584" alt="image" src="https://github.com/user-attachments/assets/5b8d483d-ffcf-4969-a037-ceedecf2b4f2" />
 
-- Deployments & Managing Infrastructure at Scale
-- Leveraging the AWS Global Infrastructure
+For this lesson, we use layer 2 switch. No IP asssigned to the switch.
 
-## Social Proof
+## Show ip interface brief on switch
 
-[Twitter](https://twitter.com/_notwaving/status/1327785265092579328?s=20)
+<img width="1166" height="593" alt="image" src="https://github.com/user-attachments/assets/ef3265d3-9cda-4599-8aab-20a506f4ab55" />
+
+Here is the status in the switch of layer 2. The status is up and up because there is a device connected while down and down because there is no interface connected to the switch. There is no need to make the switch up.
+
+## show interfaces status
+<img width="1184" height="526" alt="image" src="https://github.com/user-attachments/assets/0c54ea2c-d0d3-4c4e-b1a0-2000c5c6e01f" />
+
+- Duplex refers to how data is transmitted and received over a network link. It determines whether communication between two network devices happens in one direction at a time or both directions simultaneously.
+1. Half Duplex
+
+Data can only travel in one direction at a time.
+
+Similar to a walkie-talkie: either you talk, or you listen — not both at once.
+
+Characteristics:
+
+Older technology, common in hubs and very old switches.
+
+More collisions can occur since only one device can send data at a time.
+
+Lower performance than full duplex.
+
+2. Full Duplex
+
+Data can travel in both directions simultaneously.
+
+Like a phone call: you can speak and listen at the same time.
+
+Characteristics:
+
+Higher performance.
+
+Additional information:
+
+<img width="1170" height="568" alt="image" src="https://github.com/user-attachments/assets/db78a9f7-e5bb-43d2-bbe2-948dddc48180" />
+
+Collision will occur if:
+
+<img width="1171" height="658" alt="image" src="https://github.com/user-attachments/assets/53a4d398-5536-4223-bf74-31ed27ac4425" />
+
+
+
+## Configuring interface speed and duplex
+<img width="1173" height="605" alt="image" src="https://github.com/user-attachments/assets/fc1041eb-081e-4175-a4b2-0dc1cf903a75" />
+
+
+No collisions because both devices have a dedicated send and receive path.
+
+Standard for modern Ethernet networks.
