@@ -41,6 +41,18 @@ Characteristics:
 - No collisions because both devices have a dedicated send and receive path.
 - Standard for modern Ethernet networks.
 
+3. Auto (Default)
+
+The switch negotiates the best duplex setting automatically with the connected device using Auto-Negotiation.
+
+Best option if both devices support it.
+
+Potential issue:
+
+If one side is set to auto and the other side is set manually to full or half, a duplex mismatch can occur, leading to:
+
+- Slow performance
+- High error counts (like CRC errors or collisions)
 
 Additional information:
 
