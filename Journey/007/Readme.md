@@ -25,11 +25,9 @@ Similar to a walkie-talkie: either you talk, or you listen — not both at once.
 
 Characteristics:
 
-Older technology, common in hubs and very old switches.
-
-More collisions can occur since only one device can send data at a time.
-
-Lower performance than full duplex.
+- Older technology, common in hubs and very old switches.
+- More collisions can occur since only one device can send data at a time.
+- Lower performance than full duplex.
 
 2. Full Duplex
 
@@ -39,7 +37,10 @@ Like a phone call: you can speak and listen at the same time.
 
 Characteristics:
 
-Higher performance.
+- Higher performance.
+- No collisions because both devices have a dedicated send and receive path.
+- Standard for modern Ethernet networks.
+
 
 Additional information:
 
@@ -55,6 +56,3 @@ Collision will occur if:
 <img width="1173" height="605" alt="image" src="https://github.com/user-attachments/assets/fc1041eb-081e-4175-a4b2-0dc1cf903a75" />
 
 
-No collisions because both devices have a dedicated send and receive path.
-
-Standard for modern Ethernet networks.
