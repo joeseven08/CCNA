@@ -15,3 +15,4 @@ I am interested in networking field since it has something to do with my daily j
 - [x] 9 > [ Static Routing - Day 11](Journey/009/Readme.md)
 - [x] 10 > [ The Life of a Packet - Day 12](Journey/010/Readme.md)
 - [x] 11 > [ Subnetting - Day 13 - Day 15](Journey/011/Readme.md)
+- [x] 12 > [ VLAN Part 1 - Day 16](Journey/012/Readme.md)
