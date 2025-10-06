@@ -73,7 +73,7 @@ Trunk Configuration:
 
 <img width="626" height="279" alt="image" src="https://github.com/user-attachments/assets/c9c38f76-e150-4771-8e26-8db7218e29c1" />
 
-- Trunk mode for switch interface directed to R1
+- Trunk mode for switch interface directed to SW1
 
 <img width="753" height="562" alt="image" src="https://github.com/user-attachments/assets/180f995c-43ec-4491-9e79-68fed0c84b40" />
 
@@ -81,7 +81,7 @@ Trunk Configuration:
 
 <img width="731" height="217" alt="image" src="https://github.com/user-attachments/assets/2e8a6e42-fa40-4e67-8efb-db440f687d7c" />
 
-- Trunk mode for switch interface directed to SW 1
+- Trunk mode for switch interface directed to R1
 
 <img width="761" height="163" alt="image" src="https://github.com/user-attachments/assets/9b0a8b27-011b-4e5f-a14e-8f61b87270fb" />
 
