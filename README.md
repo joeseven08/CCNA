@@ -17,4 +17,6 @@ I am interested in networking field since it has something to do with my daily j
 - [x] 11 > [ Subnetting - Day 13 - Day 15](Journey/011/Readme.md)
 - [x] 12 > [ VLAN Part 1 - Day 16](Journey/012/Readme.md)
 - [x] 13 > [ VLAN Part 2 - Day 17](Journey/013/Readme.md)
+- [x] 14 > [ VLAN Part 3 - Day 18](Journey/014/Readme.md)
+
 
