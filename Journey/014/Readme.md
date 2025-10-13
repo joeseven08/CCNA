@@ -20,7 +20,13 @@
 
 ### Topology example
 
-<img width="1174" height="651" alt="image" src="https://github.com/user-attachments/assets/ae9fa562-f49a-4327-9eef-774d8ce10ee1" />
+<img width="1173" height="586" alt="image" src="https://github.com/user-attachments/assets/76a88c82-e77c-47d8-8917-df4aaa5723fa" />
+
+
+### SVI (Switch Virtual Interface)
+
+<img width="1186" height="539" alt="image" src="https://github.com/user-attachments/assets/ab749b70-3618-4fed-b8a1-d7d89ee90566" />
+
 
 
 ## Lab
