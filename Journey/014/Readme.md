@@ -57,6 +57,10 @@
 
 <img width="693" height="271" alt="image" src="https://github.com/user-attachments/assets/eeb1ffe9-7700-455b-925f-45e15636a191" />
 
+*Make sure the ip routing command has been done.
+
+<img width="717" height="305" alt="image" src="https://github.com/user-attachments/assets/de285c0e-16f6-4cc4-af35-daee7950f2db" />
+
 
 ### Step 2: Configure the SVI on SW2
 
