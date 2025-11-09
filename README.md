@@ -19,4 +19,5 @@ I am interested in networking field since it has something to do with my daily j
 - [x] 13 > [ VLAN Part 2 - Day 17](Journey/013/Readme.md)
 - [x] 14 > [ VLAN Part 3 - Day 18](Journey/014/Readme.md)
 - [x] 15 > [ DTP/VTP - Day 19](Journey/015/Readme.md)
+- [x] 16 > [ Spanning Tree Protocol Part 1 - Day 19](Journey/016/Readme.md)
 
